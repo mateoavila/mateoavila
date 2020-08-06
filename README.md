@@ -6,5 +6,6 @@ first website
 <dict>
 	<key>URL</key>
 	<string>https://github.com/mateoavila/mateoavila/blob/master/README.md</string>
+	<p> this is my personal website</p>
 </dict>
 </plist>
